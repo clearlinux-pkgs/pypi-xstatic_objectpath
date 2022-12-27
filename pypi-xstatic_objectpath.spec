@@ -4,7 +4,7 @@
 #
 Name     : pypi-xstatic_objectpath
 Version  : 1.2.1.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/23/6c/56de25d9d3be430e7de2fcf4baac10279dad78d7b16cbda339cf014c2fe5/XStatic-objectpath-1.2.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/23/6c/56de25d9d3be430e7de2fcf4baac10279dad78d7b16cbda339cf014c2fe5/XStatic-objectpath-1.2.1.0.tar.gz
 Summary  : objectpath 1.2.1 (XStatic packaging standard)
@@ -59,7 +59,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1671855299
+export SOURCE_DATE_EPOCH=1672120818
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
